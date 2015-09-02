@@ -14,4 +14,5 @@ public class App
     public static int square(int value) {
       return value*value;
     }
+    public static foo(){}
 }
